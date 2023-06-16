@@ -1,4 +1,5 @@
-1. Data Types: (https://discord.com/channels/1112642580358901903/1112982768520011827/1112982876380729427) [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+1. Data Types: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+
 2. Variables and Constants: [Two Sum](https://leetcode.com/problems/two-sum/)
 3. Operators: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 4. Control Structures: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
