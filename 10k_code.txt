@@ -1,5 +1,5 @@
 
-Baisc: 
+Problems: 
 
 1. Data Types: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 2. Variables and Constants: [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -39,42 +39,75 @@ Baisc:
 36. Geometry: [Valid Square](https://leetcode.com/problems/valid-square/)
 37. Math: [Power of Three](https://leetcode.com/problems/power-of-three/)
 
+
+
+Core concepts: -- 25 leet code problems that demostrate the core concepts of python programming
+
+Two Sum (Easy): To understand the basics of list and dictionary manipulations. https://leetcode.com/problems/two-sum/
+Valid Parentheses (Easy): Demonstrates the use of Python stack data structures. https://leetcode.com/problems/valid-parentheses/
+FizzBuzz (Easy): A classic problem to demonstrate control flow in Python. https://leetcode.com/problems/fizz-buzz/
+Maximum Subarray (Easy): To understand the concept of dynamic programming. https://leetcode.com/problems/maximum-subarray/
+Reverse Integer (Easy): To understand data type conversion and string manipulation. https://leetcode.com/problems/reverse-integer/
+Palindrome Number (Easy): To understand string and list reversal in Python. https://leetcode.com/problems/palindrome-number/
+Single Number (Easy): Highlights the power of XOR operation in Python.  https://leetcode.com/problems/single-number/
+Merge Two Sorted Lists (Easy): Demonstrates linked list manipulation in Python. https://leetcode.com/problems/merge-two-sorted-lists/
+Climbing Stairs (Easy): A dynamic programming problem that is a variation of the Fibonacci sequence. https://leetcode.com/problems/climbing-stairs/
+Symmetric Tree (Easy): To understand the concept of recursion and tree traversal. https://leetcode.com/problems/symmetric-tree/
+Add Two Numbers (Medium): Demonstrates the handling of linked lists.    https://leetcode.com/problems/add-two-numbers/
+Longest Substring Without Repeating Characters (Medium): Demonstrates string manipulation and sliding window concept. https://leetcode.com/problems/longest-substring-without-repeating-characters/
+3Sum (Medium): Demonstrates the two-pointer technique. https://leetcode.com/problems/3sum/
+Generate Parentheses (Medium): Demonstrates depth-first search (DFS) and recursion. https://leetcode.com/problems/generate-parentheses/
+Number of Islands (Medium): Demonstrates depth-first search (DFS) and breadth-first search (BFS) in Python. https://leetcode.com/problems/number-of-islands/
+Product of Array Except Self (Medium): Demonstrates the use of extra space to achieve a time-efficient solution. https://leetcode.com/problems/product-of-array-except-self/
+Word Break (Medium): A dynamic programming problem that demonstrates the concept of memoization. https://leetcode.com/problems/word-break/
+Valid Sudoku (Medium): Demonstrates matrix manipulation. https://leetcode.com/problems/valid-sudoku/
+Binary Tree Inorder Traversal (Medium): Demonstrates tree traversal techniques. https://leetcode.com/problems/binary-tree-inorder-traversal/
+Subsets (Medium): Demonstrates the concept of bit manipulation and recursion. https://leetcode.com/problems/subsets/
+Median of Two Sorted Arrays (Hard): Demonstrates binary search and understanding of complex problem statements. https://leetcode.com/problems/median-of-two-sorted-arrays/
+Regular Expression Matching (Hard): Demonstrates the use of dynamic programming in string matching problems. https://leetcode.com/problems/regular-expression-matching/
+Longest Valid Parentheses (Hard): Demonstrates the use of stack in complex string manipulation. https://leetcode.com/problems/longest-valid-parentheses/
+Largest Rectangle in Histogram (Hard): Demonstrates stack and array manipulation. https://leetcode.com/problems/largest-rectangle-in-histogram/
+Longest Consecutive Sequence (Hard): Demonstrates the use of set data structure and array manipulation. https://leetcode.com/problems/longest-consecutive-sequence/
+
+
 Easy:
 
-Two Sum
-Maximum Subarray
-Valid Parentheses
-Best Time to Buy and Sell Stock
-House Robber
-Reverse Linked List
-Single Number
-Merge Two Sorted Lists
-Climbing Stairs
-Symmetric Tree​1​.
+Two Sum (Easy): To understand the basics of list and dictionary manipulations. https://leetcode.com/problems/two-sum/
+Maximum Subarray (Easy): To understand the concept of dynamic programming. https://leetcode.com/problems/maximum-subarray/
+Valid Parentheses (Easy): Demonstrates the use of Python stack data structures. https://leetcode.com/problems/valid-parentheses/
+Best Time to Buy and Sell Stock (Easy): To understand the concept of greedy algorithms. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+House Robber (Easy): A dynamic programming problem that is a variation of the Fibonacci sequence. https://leetcode.com/problems/house-robber/
+Reverse Linked List (Easy): Demonstrates linked list manipulation in Python. https://leetcode.com/problems/reverse-linked-list/
+Single Number (Easy): Highlights the power of XOR operation in Python.  https://leetcode.com/problems/single-number/
+Merge Two Sorted Lists (Easy): Demonstrates linked list manipulation in Python. https://leetcode.com/problems/merge-two-sorted-lists/
+Climbing Stairs (Easy): A dynamic programming problem that is a variation of the Fibonacci sequence. https://leetcode.com/problems/climbing-stairs/
+Symmetric Tree​1​. (Easy): To understand the concept of recursion and tree traversal. https://leetcode.com/problems/symmetric-tree/
 
 
 Intermediate:
 
-Longest Substring Without Repeating Characters
-Add Two Numbers
-3Sum
-Longest Palindromic Substring
-Container With Most Water
-Generate Parentheses
-Number of Islands
-Search in Rotated Sorted Array
-Longest Increasing Subsequence
-Find the Duplicate Number​1​.
+Longest Substring Without Repeating Characters (Medium): Demonstrates string manipulation and sliding window concept. https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Add Two Numbers (Medium): Demonstrates the handling of linked lists.    https://leetcode.com/problems/add-two-numbers/
+3Sum (Medium): Demonstrates the two-pointer technique. https://leetcode.com/problems/3sum/
+Longest Palindromic Substring (Medium): Demonstrates the concept of dynamic programming. https://leetcode.com/problems/longest-palindromic-substring/
+Container With Most Water (Medium): Demonstrates the two-pointer technique. https://leetcode.com/problems/container-with-most-water/
+Generate Parentheses (Medium): Demonstrates depth-first search (DFS) and recursion. https://leetcode.com/problems/generate-parentheses/
+Number of Islands (Medium): Demonstrates depth-first search (DFS) and breadth-first search (BFS) in Python. https://leetcode.com/problems/number-of-islands/
+Search in Rotated Sorted Array (Medium): Demonstrates the concept of binary search. https://leetcode.com/problems/search-in-rotated-sorted-array/
+Longest Increasing Subsequence (Medium): Demonstrates the concept of dynamic programming. https://leetcode.com/problems/longest-increasing-subsequence/
+Find the Duplicate Number​1​. (Medium): Demonstrates the concept of Floyd's Tortoise and Hare (Cycle Detection). https://leetcode.com/problems/find-the-duplicate-number/
 
 Hard:
 
-Median of Two Sorted Arrays
-Trapping Rain Water
-Regular Expression Matching
-Merge k Sorted Lists
-Minimum Window Substring
-Edit Distance
-Largest Rectangle in Histogram
-Longest Valid Parentheses
-Longest Consecutive Sequence
-First Missing Positive​1​.
+Median of Two Sorted Arrays (Hard): Demonstrates binary search and understanding of complex problem statements. https://leetcode.com/problems/median-of-two-sorted-arrays/
+Trapping Rain Water (Hard): Demonstrates the two-pointer technique. https://leetcode.com/problems/trapping-rain-water/
+Regular Expression Matching (Hard): Demonstrates the use of dynamic programming in string matching problems. https://leetcode.com/problems/regular-expression-matching/ 
+Merge k Sorted Lists (Hard): Demonstrates the use of heap data structure. https://leetcode.com/problems/merge-k-sorted-lists/
+Minimum Window Substring (Hard): Demonstrates the sliding window technique. https://leetcode.com/problems/minimum-window-substring/
+Edit Distance (Hard): Demonstrates the concept of dynamic programming. https://leetcode.com/problems/edit-distance/
+Largest Rectangle in Histogram (Hard): Demonstrates stack and array manipulation. https://leetcode.com/problems/largest-rectangle-in-histogram/
+Longest Valid Parentheses (Hard): Demonstrates the use of stack in complex string manipulation. https://leetcode.com/problems/longest-valid-parentheses/
+Longest Consecutive Sequence (Hard): Demonstrates the use of set data structure and array manipulation. https://leetcode.com/problems/longest-consecutive-sequence/
+First Missing Positive​1​. (Hard): Demonstrates the use of set data structure and array manipulation. https://leetcode.com/problems/first-missing-positive/
+
+"""
