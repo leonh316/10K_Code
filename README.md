@@ -5,6 +5,5 @@
 # Python Core Concepts Map
 - https://neetcode.io/roadmap
 
-# Core Concepts Detailed List
-Contained inside: 10K_Code\10k_code.txt
+[Core Concepts Detailed List](10k_code.txt)
 
