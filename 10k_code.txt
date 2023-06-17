@@ -1,4 +1,4 @@
-Core Concepts Map - Neet code currated list: https://neetcode.io/roadmap
+Python Core Concepts Map - Neet code currated list: https://neetcode.io/roadmap
 
 Arrays & Hashing
     Two Pointers
@@ -21,10 +21,10 @@ Arrays & Hashing
 
 
 Core Concepts Detailed List - Neet code currated list: https://neetcode.io/roadmap
-
+# some links are broken still because chatgpt found them.
 
 Arrays & Hashing
-        Contains Duplicate (Easy): Demonstrates the use of Python set data structure. https://leetcode.com/problems/contains-duplicate/
+        Contains Duplicate (Easy): Demonstrates the use of Python set data structure. https://leetcode.com/problemsproblems/contains-duplicate/
         Valid Anagram (Easy): Demonstrates the use of Python dictionary data structure. https://leetcode.com/problems/valid-anagram/
         Two Sum (Easy): To understand the basics of list and dictionary manipulations. https://leetcode.com/problems/two-sum/
         Group Anagrams (Medium): Demonstrates the use of Python dictionary data structure. https://leetcode.com/problems/group-anagrams/
