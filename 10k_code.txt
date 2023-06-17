@@ -1,5 +1,7 @@
-1. Data Types: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 
+Baisc: 
+
+1. Data Types: [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 2. Variables and Constants: [Two Sum](https://leetcode.com/problems/two-sum/)
 3. Operators: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 4. Control Structures: [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
@@ -37,3 +39,42 @@
 36. Geometry: [Valid Square](https://leetcode.com/problems/valid-square/)
 37. Math: [Power of Three](https://leetcode.com/problems/power-of-three/)
 
+Easy:
+
+Two Sum
+Maximum Subarray
+Valid Parentheses
+Best Time to Buy and Sell Stock
+House Robber
+Reverse Linked List
+Single Number
+Merge Two Sorted Lists
+Climbing Stairs
+Symmetric Tree​1​.
+
+
+Intermediate:
+
+Longest Substring Without Repeating Characters
+Add Two Numbers
+3Sum
+Longest Palindromic Substring
+Container With Most Water
+Generate Parentheses
+Number of Islands
+Search in Rotated Sorted Array
+Longest Increasing Subsequence
+Find the Duplicate Number​1​.
+
+Hard:
+
+Median of Two Sorted Arrays
+Trapping Rain Water
+Regular Expression Matching
+Merge k Sorted Lists
+Minimum Window Substring
+Edit Distance
+Largest Rectangle in Histogram
+Longest Valid Parentheses
+Longest Consecutive Sequence
+First Missing Positive​1​.
