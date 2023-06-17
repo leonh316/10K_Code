@@ -90,22 +90,22 @@ Arrays & Hashing
                             Number of Connected Components In An Undirected Graph (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
                             Graph Valid Tree (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/graph-valid-tree/
                             Word Ladder (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/word-ladder/
-                                Advanced Graphs
-                                        Reconstruct Itinerary	
-                                        Min Cost to Connect All Points	
-                                        Network Delay Time	
-                                        Swim In Rising Water	
-                                        Alien Dictionary   	
-                                        Cheapest Flights Within K Stops
-                                Math & Geometry
-                                        Rotate Image (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/rotate-image/	
-                                        Spiral Matrix (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/spiral-matrix/
-                                        Set Matrix Zeroes (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/set-matrix-zeroes/
-                                        Happy Number (Easy): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/happy-number/
-                                        Plus One (Easy): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/plus-one/
-                                        Pow(x, n) (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/powx-n/
-                                        Multiply Strings (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/multiply-strings/
-                                        Detect Squares (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/detect-squares/
+                        Advanced Graphs
+                                Reconstruct Itinerary	
+                                Min Cost to Connect All Points	
+                                Network Delay Time	
+                                Swim In Rising Water	
+                                Alien Dictionary   	
+                                Cheapest Flights Within K Stops
+                        Math & Geometry
+                                Rotate Image (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/rotate-image/	
+                                Spiral Matrix (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/spiral-matrix/
+                                Set Matrix Zeroes (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/set-matrix-zeroes/
+                                Happy Number (Easy): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/happy-number/
+                                Plus One (Easy): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/plus-one/
+                                Pow(x, n) (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/powx-n/
+                                Multiply Strings (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/multiply-strings/
+                                Detect Squares (Medium): Demonstrates the use of backtracking in Python. https://leetcode.com/problems/detect-squares/
                 Heap/Priority Queue
                         Kth Largest Element In a Stream (Easy): Demonstrates the use of heap data structure. https://leetcode.com/problems/kth-largest-element-in-a-stream/
                         Last Stone Weight (Easy): Demonstrates the use of heap data structure. https://leetcode.com/problems/last-stone-weight/
