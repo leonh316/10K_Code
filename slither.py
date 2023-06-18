@@ -32,8 +32,8 @@ while not gameExit:
         
 
     lead_x += lead_x_change
-    gameDisplay.fill(white)
-    pygame.draw.rect(gameDisplay, black, [lead_x,lead_y,10,10])
+    gameDisplay.fill(black)
+    pygame.draw.rect(gameDisplay, white, [lead_x,lead_y,10,10])
     pygame.display.update()
 
     clock.tick(30)
