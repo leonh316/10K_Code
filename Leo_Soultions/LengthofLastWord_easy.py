@@ -1,6 +1,12 @@
 """ 58. Length of Last Word Easy 3.4K 179 Companies
 Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only. """
 
+# help me think throught this problem in code steps
+# 1. input a string
+# 2. strip the string of any white space
+# 3. split the string into a list of words
+# 4. return the length of the last word in the list
+
 # Leo soultion:
 
 i = input("Enter your word: ")
