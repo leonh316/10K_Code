@@ -9,10 +9,7 @@ Assume the environment does not allow you to store 64-bit integers (signed or un
 # 3. if the reversed integer is outside the signed 32-bit integer range, return 0
 # 4. else return the reversed integer
 
-
 # Leo soultion:
-
-
 def reverse(x):
     """Reverse the digits of a signed 32-bit integer"""
     # 1. input a signed 32-bit integer
@@ -39,7 +36,7 @@ print() # for testing use
 
 
 
-
+ 
 
 
 
