@@ -1,5 +1,6 @@
 """ 58. Length of Last Word Easy 3.4K 179 Companies
-Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only. """
+Given a string s consisting of words and spaces, return the length of the last word in the string. 
+A word is a maximal substring consisting of non-space characters only. """
 
 # help me think throught this problem in code steps
 # 1. input a string
@@ -7,8 +8,35 @@ Given a string s consisting of words and spaces, return the length of the last w
 # 3. split the string into a list of words
 # 4. return the length of the last word in the list
 
-# Leo soultion:
+# Leo soultion: (solve this problem using my coding style)
 
+
+
+
+# co-pilot soultion: (solve this problem using a beginner level's coding style)
+def length_of_last_word(s):
+    s = s.strip()  # remove leading and trailing white spaces
+    words = s.split(' ')  # split the string into words
+    if not words:  # if there are no words
+        return 0
+    else:  # return the length of the last word
+        last_word = words[-1]
+        return len(last_word)
+
+
+# co-pilot soultion: (solve this problem using a intermediate level's coding style)
+def length_of_last_word(s):
+    words = [word for word in s.split() if word]  # list comprehension to generate list of non-empty words
+    return len(words[-1]) if words else 0  # return the length of the last word or 0 if there are no words
+
+
+# co-pilot soultion: (solve this problem using a advanced level's coding style)
+def length_of_last_word(s):
+    return len(s.strip().split(' ')[-1]) if s.strip() else 0  # chain methods together for a concise solution
+
+
+"""
+# # co-pilot soultion:
 i = input("Enter your word: ")
 print(i)
 
@@ -19,6 +47,8 @@ def length_of_last_word(i):
 print(length_of_last_word(i))
 print("The last word is:", i.split(" ")[-1], "with length of:", len(i.split(" ")[-1]))
 
+
+"""
 
 """
 # Notes from Leo: using GPT"

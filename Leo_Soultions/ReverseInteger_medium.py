@@ -10,8 +10,15 @@ Assume the environment does not allow you to store 64-bit integers (signed or un
 # 4. else return the reversed integer
 
 # Leo soultion:
+
+
+
+
+""" 
+# 7.Reverse Integer - Medium - Co-pilot solution
+
 def reverse(x):
-    """Reverse the digits of a signed 32-bit integer"""
+    # Reverse the digits of a signed 32-bit integer
     # 1. input a signed 32-bit integer
     # 2. reverse the digits of the integer
     if x >= 0: # if positive
@@ -34,11 +41,7 @@ def reverse(x):
 print() # for testing use
 
 
-
-
- 
-
-
+""" 
 
 """print("1") # for testing use
 # 1. input a signed 32-bit integer
