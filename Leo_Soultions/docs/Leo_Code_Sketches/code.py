@@ -1,22 +1,18 @@
+""" 58. Length of Last Word Easy 3.4K 179 Companies
+Given a string s consisting of words and spaces, return the length of the last word in the string. A word is a maximal substring consisting of non-space characters only. """
 
-i = input("Enter your word: ")
-print(i)
+def length_of_last_word(s: str) -> int:
+    # strip the string of any white space
+    s = s.strip()
+    # split the string into a list of words
+    words = s.split()
+    # return the length of the last word in the list
+    return len(words[-1])
 
-def length_of_last_word(i):
-    i = i.strip()
-    return len(i.split(" ")[-1])
-
-print(length_of_last_word(i))
-print("The last word is:", i.split(" ")[-1], "with length of:", len(i.split(" ")[-1]))
-
-
-
-
-
-
+# example usage
+s = "Hello World"
+print(length_of_last_word(s)) # output: 5
 
 
-
-
-
-
+user_input = input("Enter a string: ")
+print("You entered:", user_input)

@@ -20,11 +20,13 @@ def 10kCode_db():
 # store the line number of each line of code
 
 def 10kCode_graph():
-
 # graph the 10kCode_db() data
 # x-axis: time
 # y-axis: lines of code
-# 
+# make the graph real time
+# make the graph transparent
+# create a cool dashboard that displays the graph like github's contribution graph. 
+
 
 
 
