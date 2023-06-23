@@ -8,7 +8,6 @@ below content is for GPT 4 to be able to read this file easily from a url to thi
 -- Contents of PyConceptsMap.txt
 ---------------------------------------------------
 
-
 Python Core Concepts Map - Neet code currated list: https://neetcode.io/roadmap
 
 Arrays & Hashing
@@ -32,8 +31,7 @@ Arrays & Hashing
 
 
 Core Concepts Detailed List - Neet code currated list: https://neetcode.io/roadmap
-
-some links are broken still because chatgpt found them.
+# some links are broken still because chatgpt found them.
 
 Arrays & Hashing
         Contains Duplicate (Easy): Demonstrates the use of Python set data structure. https://leetcode.com/problemsproblems/contains-duplicate/

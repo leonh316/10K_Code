@@ -4,8 +4,6 @@
 
 import time
 
-
-
 def 10kCode_gauge():
 # in real time (update every second if possible)
 # scrap files from Leo_Soultions folder
